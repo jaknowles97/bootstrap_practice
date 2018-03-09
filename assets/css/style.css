@@ -1,0 +1,29 @@
+p {
+    margin: 0;
+    padding: 1rem;
+}
+body {
+    background-color: #444;
+}
+header {
+    max-height: 500px;
+    background-color: grey;
+    padding: 1rem;
+}
+.about-div {
+    background-color: rgb(167, 123, 167);
+}
+.contact-div {
+    background-color: rgb(167, 123, 167);
+}
+.profile {
+    max-width: 60%;
+    max-height: 40%;
+}
+footer {
+    height: 100px;
+    background-color: grey;
+}
+.copyright {
+    line-height: 50px;
+}
