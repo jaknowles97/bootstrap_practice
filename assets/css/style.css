@@ -20,6 +20,11 @@ header {
     max-width: 60%;
     max-height: 40%;
 }
+.portfolio-img {
+    width: 200px;
+    height: 150px;
+
+}
 footer {
     height: 100px;
     background-color: grey;
